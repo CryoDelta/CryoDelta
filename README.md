@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @CryoDelta
-- 👀 I’m interested in roguelites.
-- 🌱 I’m currently learning programming
-- 💞️ I’m looking to collaborate on project
-- 📫 How to reach me : don't.
+- 👋 Hi, I’m Cryo Delta.
+- 👀 I find roguelites to be one of the best experience possible in gaming.
+- 💻 I’m currently learning developpement and lately, web dev even more in depth.
+- 📫 You can reach me on Discord, my @ is Cryo Delta#0573.
 
 <!---
 CryoDelta/CryoDelta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

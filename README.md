@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Cryo Delta.
-- 👀 I find roguelites to be one of the best experience possible in gaming.
-- 💻 I’m currently learning developpement and lately, web dev even more in depth.
-- 📫 You can reach me on Discord, my @ is Cryo Delta#0573.
+- 💻 I’m a fullstack web developper specilizing in PHP/Symfony and I love CSS.
+- 📫 You can reach me on Discord, my @ is cryodelta.
 
 <!---
 CryoDelta/CryoDelta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
